@@ -19,9 +19,13 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=elmeddinkamalli&count_private=true&show_icons=true&include_all_commits=true)
+<br/>
+
+![elmeddinkamalli's Github Stats](https://github-readme-stats.vercel.app/api?username=elmeddinkamalli&count_private=true&show_icons=true&include_all_commits=true)
+
+</br> 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmeddinkamalli&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
