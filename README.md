@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 **Languages and Tools:** 
 
-![PHP](https://img.shields.io/badge/-php-black?logo=php&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity&style=social)&nbsp;&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-black?logo=react&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
