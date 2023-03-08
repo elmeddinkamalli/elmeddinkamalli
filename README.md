@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @elmeddinkamalli
-- 👀 I’m interested in Blokchain
-- 🌱 I’m currently learning Web3 and Blokchain
+- 🌱 I’m a Software Developer which have experience on various technologies.
 - 📫 Follow me on <a target="blank" href="https://www.instagram.com/elmeddinkamalli/">Instagram</a> and <a target="blank" href="https://www.linkedin.com/in/elmeddin-kamalli-6152ba114/">LinkedIn</a>
 
 <!---
